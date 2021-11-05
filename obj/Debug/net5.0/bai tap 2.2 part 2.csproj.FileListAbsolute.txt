@@ -1,0 +1,16 @@
+D:\code vs\bai tap 2.2 part 2\obj\Debug\net5.0\bai tap 2.2 part 2.csproj.AssemblyReference.cache
+D:\code vs\bai tap 2.2 part 2\obj\Debug\net5.0\bai tap 2.2 part 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\code vs\bai tap 2.2 part 2\obj\Debug\net5.0\bai tap 2.2 part 2.AssemblyInfoInputs.cache
+D:\code vs\bai tap 2.2 part 2\obj\Debug\net5.0\bai tap 2.2 part 2.AssemblyInfo.cs
+D:\code vs\bai tap 2.2 part 2\obj\Debug\net5.0\bai tap 2.2 part 2.csproj.CoreCompileInputs.cache
+D:\code vs\bai tap 2.2 part 2\bin\Debug\net5.0\bai tap 2.2 part 2.exe
+D:\code vs\bai tap 2.2 part 2\bin\Debug\net5.0\bai tap 2.2 part 2.deps.json
+D:\code vs\bai tap 2.2 part 2\bin\Debug\net5.0\bai tap 2.2 part 2.runtimeconfig.json
+D:\code vs\bai tap 2.2 part 2\bin\Debug\net5.0\bai tap 2.2 part 2.runtimeconfig.dev.json
+D:\code vs\bai tap 2.2 part 2\bin\Debug\net5.0\bai tap 2.2 part 2.dll
+D:\code vs\bai tap 2.2 part 2\bin\Debug\net5.0\ref\bai tap 2.2 part 2.dll
+D:\code vs\bai tap 2.2 part 2\bin\Debug\net5.0\bai tap 2.2 part 2.pdb
+D:\code vs\bai tap 2.2 part 2\obj\Debug\net5.0\bai tap 2.2 part 2.dll
+D:\code vs\bai tap 2.2 part 2\obj\Debug\net5.0\ref\bai tap 2.2 part 2.dll
+D:\code vs\bai tap 2.2 part 2\obj\Debug\net5.0\bai tap 2.2 part 2.pdb
+D:\code vs\bai tap 2.2 part 2\obj\Debug\net5.0\bai tap 2.2 part 2.genruntimeconfig.cache
